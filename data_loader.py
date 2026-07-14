@@ -9,8 +9,8 @@ from data_cleaner import clean_dataset
 
 def load_data():
     # importing the datasets 
-    df_gen1_dirty = pd.read_csv("data\data_gen1_dirty.csv")
-    df_gen2_dirty = pd.read_csv("data\data_gen2_dirty.csv")
+    df_gen1_dirty = pd.read_csv("data/data_gen_1_dirty.csv")
+    df_gen2_dirty = pd.read_csv("data/data_gen_2_dirty.csv")
 
     # cleaning the data 
     df_gen1_clean = clean_dataset(df_gen1_dirty)

@@ -4,16 +4,17 @@ __pycache__/
 
 # Virtual Environment
 .venv/
+venv/
+env/
 
-# VS Code
+# Environment Variables
+.env
+.env.*
+
+# IDE
 .vscode/
-
-# PyCharm
 .idea/
 
-# macOS
+# OS
 .DS_Store
-
-# Windows
 Thumbs.db
-Desktop.ini
