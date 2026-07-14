@@ -1052,5 +1052,713 @@ pokemon_facts = {
         "It destroyed the laboratory where it was created in a fit of rage.",
         "Mewtwo possesses two distinct Mega Evolutions, X and Y.",
         "It starred in the first Pokémon movie, questioning the purpose of its existence."
+    ],
+    "MEW": [
+        "It is said to contain the genetic composition of all Pokémon.",
+        "Mew was a secret addition to the original games by programmer Shigeki Morimoto.",
+        "It can learn every Technical Machine (TM) and Hidden Machine (HM).",
+        "Mew's DNA was used to artificially create Mewtwo.",
+        "It shows itself only to those with a pure heart and a strong desire to see it."
+    ],
+    "CHIKORITA": [
+        "It uses the leaf on its head to determine the temperature and humidity.",
+        "A sweet aroma gently wafts from the leaf, calming any battling Pokémon.",
+        "Chikorita loves to bask in the sunlight to perform photosynthesis.",
+        "Ash's Chikorita was famously affectionate and often got jealous of Pikachu.",
+        "It is the Grass-type starter Pokémon for the Johto region."
+    ],
+    "BAYLEEF": [
+        "The scent that wafts from the leaves around its neck has a spicy aroma.",
+        "Sniffing its aroma makes people and Pokémon energetic and eager to battle.",
+        "Ash's Chikorita evolved into Bayleef to protect him from Team Rocket.",
+        "It attacks using its neck leaves like razor-sharp blades.",
+        "Its long neck makes it well-suited for reaching leaves on tall trees."
+    ],
+    "MEGANIUM": [
+        "The fragrance of Meganium's flower soothes and calms emotions.",
+        "In battle, it releases a scent that blunts the foe's fighting spirit.",
+        "Its breath has the power to revive dead grass and plants.",
+        "Meganium is highly docile and prefers avoiding conflict whenever possible.",
+        "It serves as the final evolution of the Johto Grass-type starter line."
+    ],
+    "CYNDAQUIL": [
+        "It is timid and always curls itself up in a ball for protection.",
+        "When surprised or angry, flames erupt intensely from its back.",
+        "If it is tired, the flames sputter fitfully with incomplete combustion.",
+        "It was the Fire-type starter for Johto and later chosen as a starter for the Hisui region.",
+        "Ash's Cyndaquil was originally caught after a race against another trainer."
+    ],
+    "QUILAVA": [
+        "It intimidates foes with the heat of its flames before battling.",
+        "Quilava is completely impervious to most fire attacks.",
+        "It can perform agile dodges while scorching opponents with its fiery back.",
+        "Ash's Cyndaquil evolved into Quilava long after the Johto saga ended.",
+        "The fur on its body is totally non-flammable to protect it from its own heat."
+    ],
+    "TYPHLOSION": [
+        "It can hide behind a shimmering heat haze that it creates using intense flames.",
+        "When fully enraged, anything it touches instantly goes up in flames.",
+        "It creates massive explosions by rubbing its blazing fur together.",
+        "Hisuian Typhlosion is a Fire/Ghost type and supposedly purifies lost souls.",
+        "Despite its fierce nature, it is fiercely loyal to a trusted trainer."
+    ],
+    "TOTODILE": [
+        "It has a habit of biting anything it sees, including its trainer.",
+        "Its jaws are so powerful they can crush nearly anything.",
+        "Ash's Totodile was known for constantly dancing and having a joyful personality.",
+        "Even when it is just playing, its bite can cause serious injuries.",
+        "It is the Water-type starter Pokémon for the Johto region."
+    ],
+    "CROCONAW": [
+        "Once Croconaw bites down, it will not let go until it loses its fangs.",
+        "Its fangs grow back incredibly quickly if they are ever broken.",
+        "The pattern on its stomach resembles a caveman's animal-skin tunic.",
+        "It always maintains a sturdy, bottom-heavy stance to prepare for sudden strikes.",
+        "It can easily snap thick wooden logs in half with a single bite."
+    ],
+    "FERALIGATR": [
+        "When it bites with its massive and powerful jaws, it shakes its head to savagely tear its victim.",
+        "It is incredibly fast on all fours despite its bulky, bipedal appearance.",
+        "Feraligatr moves sluggishly on land but is a ferocious swimmer.",
+        "It intimidates its foes by opening its huge mouth completely.",
+        "Silver, the rival in Pokémon Gold and Silver, frequently uses a Feraligatr."
+    ],
+    "SENTRET": [
+        "It stands on its tail so it can see from a long way off.",
+        "Sentret sleeps while keeping watch in shifts to protect its pack.",
+        "If it gets separated from its pack, it becomes too terrified to sleep.",
+        "It warns others of danger by slamming its tail on the ground loudly.",
+        "It is considered the 'Rattata' of the Johto region."
+    ],
+    "FURRET": [
+        "There is no telling where its tail begins and its body ends.",
+        "Despite its short limbs, it is remarkably quick and agile.",
+        "Furret makes its nest by burrowing deeply into the ground.",
+        "A mother Furret will fiercely protect her young by curling around them.",
+        "It gained internet fame with a viral meme of it walking to a catchy song."
+    ],
+    "HOOTHOOT": [
+        "It always stands on one foot and switches feet so fast you can rarely see it.",
+        "Hoothoot has an internal organ that accurately senses the Earth's rotation.",
+        "It begins hooting at exactly the same time every single day.",
+        "Because of its impeccable timekeeping, trainers often use it as a clock.",
+        "Ash caught a uniquely colored Hoothoot, though not a shiny, in the anime."
+    ],
+    "NOCTOWL": [
+        "Its eyes are specially adapted to see perfectly in the darkest of nights.",
+        "Noctowl flies completely silently due to its incredibly soft feathers.",
+        "When it needs to think deeply, it rotates its head 180 degrees.",
+        "Ash caught a shiny Noctowl, which was significantly smaller than average.",
+        "It has strong psychic abilities despite being a Normal/Flying type."
+    ],
+    "LEDYBA": [
+        "It secretes an aromatic fluid from where its legs join its body.",
+        "Ledyba is highly timid and will only be active when in a large swarm.",
+        "When the weather turns cold, swarms of Ledyba cluster together for warmth.",
+        "It communicates with others by altering the scent of its secreted fluid.",
+        "Its design is closely based on a classic ladybug."
+    ],
+    "LEDIAN": [
+        "It is said that in lands with clean air, the stars on Ledian's back grow larger.",
+        "It uses starlight as its primary source of energy.",
+        "Ledian scatters glowing powder as it flutters through the night sky.",
+        "Despite its boxing gloves, its physical attack stat is extremely low.",
+        "It is most active during the nighttime when the stars are visible."
+    ],
+    "SPINARAK": [
+        "It spins a web that is as strong as wire to catch its prey.",
+        "Spinarak waits for days in its web without moving a single muscle.",
+        "Officer Jenny in the Johto region uses Spinarak instead of Growlithe.",
+        "The pattern on its back occasionally changes depending on its mood.",
+        "Its nervous system is directly connected to its web, sensing the slightest vibration."
+    ],
+    "ARIADOS": [
+        "Rather than making a nest, it actively roams in search of food.",
+        "It attaches silk to its prey and lets them go to track them to their nest.",
+        "Ariados spins string from both its mouth and its rear.",
+        "It is notoriously ruthless and will trap enemies before attacking.",
+        "It was one of the signature Pokémon used by Team Rocket in the Johto anime."
+    ],
+    "CROBAT": [
+        "By evolving, Crobat developed a second pair of wings to fly faster.",
+        "It can fly in complete silence, allowing it to easily ambush prey.",
+        "Having four wings allows it to alternate resting them while flying long distances.",
+        "Brock's Golbat evolved into Crobat because of their incredibly strong bond.",
+        "It is incredibly fast, boasting one of the highest speed stats in Generation 2."
+    ],
+    "CHINCHOU": [
+        "It discharges positive and negative electricity from its two antennas.",
+        "Chinchou lives in deep, dark ocean trenches where no light reaches.",
+        "It lures prey using the glowing orbs on its antennas.",
+        "The glowing orbs are actually outgrowths of its dorsal fin.",
+        "It possesses a unique Water/Electric typing, giving it few weaknesses."
+    ],
+    "LANTURN": [
+        "It is nicknamed 'The Deep-Sea Star' for its brilliant light.",
+        "Lanturn can emit a light so strong it illuminates the ocean from a depth of three miles.",
+        "It paralyzes its prey with a bright flash of light before swallowing them whole.",
+        "The light is generated by a chemical reaction involving bacteria in its antenna.",
+        "Despite its bulky appearance, it is remarkably buoyant in the water."
+    ],
+    "PICHU": [
+        "It is not yet skilled at storing electricity and often shocks itself.",
+        "When Pichu plays with others, they often short out and spark each other.",
+        "A special 'Spiky-eared Pichu' was featured in Pokémon HeartGold and SoulSilver.",
+        "It evolves into Pikachu when it has a high friendship level with its trainer.",
+        "In Super Smash Bros., Pichu damages itself every time it uses an electric attack."
+    ],
+    "CLEFFA": [
+        "It has a silhouette that resembles a star.",
+        "Because it often appears during meteor showers, it is rumored to come from space.",
+        "When it finds a meteorite, it absorbs the energy to glow brightly.",
+        "It evolves into Clefairy through high friendship.",
+        "Cleffa loves to dance in a ring during nights with a full moon."
+    ],
+    "IGGLYBUFF": [
+        "Its body is exceptionally soft and bouncy, like a marshmallow.",
+        "If it trips, it will bounce endlessly and cannot stop.",
+        "Igglybuff vocal chords are not fully developed, so it gargles to soothe them.",
+        "It smells faintly of sweet, soothing strawberries.",
+        "It evolves into Jigglypuff when it trusts its trainer completely."
+    ],
+    "TOGEPI": [
+        "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+        "Its shell is filled with a mysterious, joyful energy.",
+        "Misty carried Togepi in her arms for multiple seasons of the anime.",
+        "Togepi hatched from an egg that Ash, Misty, and Brock all fought over.",
+        "It uses the move Metronome to magically defend itself when in extreme danger."
+    ],
+    "TOGETIC": [
+        "It is said to appear before kindhearted, caring people to shower them with glowing dust.",
+        "If its trainer is not pure of heart, Togetic will grow depressed and lose its energy.",
+        "It can stay suspended in midair without flapping its wings.",
+        "Misty's Togepi evolved into Togetic and was released to protect the Mirage Kingdom.",
+        "It gained a third evolutionary stage, Togekiss, in Generation 4."
+    ],
+    "NATU": [
+        "It cannot fly because its wings are not yet fully grown.",
+        "Natu is highly skilled at climbing the trunks of trees to forage for buds.",
+        "It always seems to be staring blankly at something no one else can see.",
+        "When two Natu meet, they communicate by perfectly mimicking each other's movements.",
+        "It has a unique Psychic/Flying typing right from its base form."
+    ],
+    "XATU": [
+        "It stands rooted in one spot all day, gazing at the sun.",
+        "Legends say Xatu's right eye sees the future, while its left eye sees the past.",
+        "People believe it stays motionless because it is terrified by the visions of the future it sees.",
+        "It communicates using a mysterious form of telepathy.",
+        "In South American-inspired lore within the Pokémon world, it is revered as a mystic."
+    ],
+    "MAREEP": [
+        "Its fleece grows continually and stores intense static electricity.",
+        "If Mareep builds up too much static, its wool doubles in size.",
+        "Touching its fleece with bare hands can cause a painful shock.",
+        "During the summer, it completely sheds its fleece, which grows back within a week.",
+        "Its design is inspired by the novel 'Do Androids Dream of Electric Sheep?'."
+    ],
+    "FLAAFFY": [
+        "It stores so much electricity that it has shed the wool over much of its body.",
+        "Its rubbery skin protects it from being electrocuted by its own power.",
+        "The orb on its tail glows brilliantly when it is about to use an electric attack.",
+        "Flaaffy's remaining fleece is highly valued for making static-free clothing.",
+        "It was commonly used by gym leaders and trainers focused on electric types in Johto."
+    ],
+    "AMPHAROS": [
+        "The light from its tail can be seen from space.",
+        "Ampharos has been used to send signals across oceans since ancient times.",
+        "Jasmine, the Olivine Gym Leader, cares for a sickly Ampharos named Amphy that powers the local lighthouse.",
+        "Mega Ampharos gains the Dragon typing and a fabulous head of glowing hair.",
+        "Despite losing all its wool, it still retains its incredible electrical storage capacity."
+    ],
+    "BELLOSSOM": [
+        "When Bellossom gather, they perform a beautiful dance that signals the end of the rainy season.",
+        "It evolves from Gloom when exposed to a Sun Stone, diverging from Vileplume.",
+        "The flowers on its head are highly fragrant and spin rapidly when it moves.",
+        "It is entirely Grass-type, shedding the Poison typing of its pre-evolutions.",
+        "Its appearance drastically changes to be bright and cheerful compared to Gloom."
+    ],
+    "MARILL": [
+        "The tip of its tail is filled with oil that is lighter than water, acting like a buoy.",
+        "It can dive deep into the water while keeping its tail on the surface to breathe.",
+        "Marill was originally nicknamed 'Pikablu' by fans before its official name was revealed.",
+        "Tracey Sketchit used a Marill with exceptional hearing in the anime.",
+        "Its water-repellent fur keeps it completely dry even after a long swim."
+    ],
+    "AZUMARILL": [
+        "Its long ears can roll up like a sleeping bag to prevent water from entering them.",
+        "It creates bubble rings to camouflage itself while hunting in rivers.",
+        "Azumarill is known as the 'Aqua Rabbit Pokémon'.",
+        "With the ability Huge Power, Azumarill boasts incredibly high physical attack damage.",
+        "It gained the Fairy typing in Generation 6, making it a competitive powerhouse."
+    ],
+    "SUDOWOODO": [
+        "It perfectly mimics a tree to avoid being attacked by enemies.",
+        "Because it is actually a Rock-type, it hates water and flees when it rains.",
+        "In Pokémon Gold and Silver, players must use a SquirtBottle to move a Sudowoodo blocking the road.",
+        "If its branches stay green during winter, it is definitively a Sudowoodo, not a tree.",
+        "Its arms have brown spheres that resemble foliage but are hard as stone."
+    ],
+    "POLITOED": [
+        "When three or more gather, they sing in a loud, bellowing chorus.",
+        "It is considered a leader among Poliwag and Poliwhirl, which obey its cries.",
+        "Politoed evolves from Poliwhirl when traded holding a King's Rock.",
+        "Misty's Poliwhirl unexpectedly evolved into Politoed in the anime and gained a cheerful personality.",
+        "Its Hidden Ability, Drizzle, made it a dominant force in competitive weather teams."
+    ],
+    "HOPPIP": [
+        "Its body is so light that it is blown away by the gentlest breeze.",
+        "Hoppip link their leaves together in clusters to resist being blown away.",
+        "In the Paldea region, they are frequently seen tumbling helplessly across the fields.",
+        "It uses the wind to travel long distances, sometimes crossing entire regions.",
+        "Despite its Grass/Flying typing, it cannot learn the move Fly."
+    ],
+    "SKIPLOOM": [
+        "The flower on its head opens and closes based on the surrounding temperature.",
+        "It floats in the air to get closer to the sun and absorb more energy.",
+        "Skiploom relies heavily on sunny weather and becomes sluggish on cloudy days.",
+        "It tracks the sun's movement, meaning its flower constantly faces the light.",
+        "Its name is a combination of 'skip' and 'bloom'."
+    ],
+    "JUMPLUFF": [
+        "It rides warm southern winds to cross the sea and fly to foreign lands.",
+        "Jumpluff scatters cotton spores as it flies to create offspring wherever it lands.",
+        "Even in the fiercest hurricane, it can maneuver gracefully through the air.",
+        "It was highly favored in competitive play for its incredible speed and access to Sleep Powder.",
+        "Its three cotton puffs make it incredibly buoyant."
+    ],
+    "AIPOM": [
+        "Its tail is so powerful and dextrous that it functions like a third hand.",
+        "Because it uses its tail so much, its actual arms are rather weak.",
+        "Ash caught an Aipom that famously loved participating in Pokémon Contests.",
+        "Ash later traded his Aipom to Dawn for her Buizel.",
+        "It sleeps by wrapping its tail around a strong tree branch."
+    ],
+    "SUNKERN": [
+        "Sunkern is known for having some of the lowest base stats of any Pokémon.",
+        "It moves as little as possible to conserve all its energy for evolution.",
+        "It survives by drinking only morning dew from the leaves above it.",
+        "If attacked, it desperately shakes its leaves at the foe as a pathetic defense.",
+        "It suddenly drops out of the sky into fields and gardens."
+    ],
+    "SUNFLORA": [
+        "Sunflora converts solar energy into nutrition and is incredibly active during the day.",
+        "As the sun sets, it instantly stops moving and goes to sleep.",
+        "It always faces toward the sun to maximize its energy absorption.",
+        "Artazon Gym Leader Brassius is famously obsessed with Sunflora sculptures.",
+        "It evolves from Sunkern using a Sun Stone."
+    ],
+    "YANMA": [
+        "Its wings can beat at such a high speed that they generate shock waves.",
+        "Yanma can see a full 360 degrees without turning its head.",
+        "It stops midair and instantly darts in another direction to catch prey.",
+        "Jessie of Team Rocket temporarily captured a Yanma that quickly evolved.",
+        "It relies heavily on its unparalleled vision to hunt smaller bugs."
+    ],
+    "WOOPER": [
+        "It lives in cold water, coming onto land only when the temperature drops at night.",
+        "Wooper's body is covered in a slimy, toxic film that protects it on land.",
+        "Touching Wooper with bare hands will cause a stinging pain from the toxin.",
+        "Paldean Wooper is Poison/Ground type and adapted to living in mud bogs.",
+        "Despite lacking arms, it can learn moves like Ice Punch."
+    ],
+    "QUAGSIRE": [
+        "It is notoriously dim-witted and often bumps its head on riverbeds while swimming.",
+        "Quagsire does not care at all if it hurts itself and remains incredibly relaxed.",
+        "It waits for food to drift into its open mouth rather than hunting.",
+        "Its Hidden Ability, Unaware, allows it to completely ignore an opponent's stat boosts.",
+        "Clavell in Pokémon Scarlet and Violet uses a Quagsire on his team."
+    ],
+    "ESPEON": [
+        "It uses the fine hairs on its coat to predict the weather and its opponent's moves.",
+        "The gem on its forehead glows vibrantly when it uses psychokinesis.",
+        "Espeon evolves from Eevee when leveled up with high friendship during the day.",
+        "It is deeply loyal to any trainer it considers worthy.",
+        "Red uses an Espeon on his team during his battle on Mt. Silver in Gen 2."
+    ],
+    "UMBREON": [
+        "When agitated, it sprays a poisonous sweat from its pores.",
+        "The rings on its body glow brightly when it is exposed to the moon's aura.",
+        "Umbreon evolves from Eevee with high friendship during the night.",
+        "Gary Oak's Eevee evolved into an Umbreon and became one of his strongest partners.",
+        "It is incredibly resilient in battle, known for its high defensive stats."
+    ],
+    "MURKROW": [
+        "It is feared by many as a bringer of bad luck.",
+        "Murkrow has a fondness for shiny objects and often steals them to hide in its nest.",
+        "It will purposefully lead people astray in dark forests to toy with them.",
+        "In competitive Pokémon, its Prankster ability makes it a top-tier support choice.",
+        "Silver, the rival in Gold and Silver, frequently uses a Murkrow."
+    ],
+    "SLOWKING": [
+        "When a Shellder bites a Slowpoke's head, the toxins cause it to gain incredible intelligence.",
+        "Slowking is capable of understanding and speaking human languages.",
+        "In the movie 'Pokémon 2000', a talking Slowking guides Ash on his quest.",
+        "If the Shellder is knocked off, it forgets everything and reverts to a normal Slowpoke.",
+        "Galarian Slowking is a Poison/Psychic type that concocts strange potions."
+    ],
+    "MISDREAVUS": [
+        "It loves to sneak up behind people at night and wail loudly to startle them.",
+        "Misdreavus absorbs the fear of its victims and uses it for nourishment.",
+        "The red spheres on its necklace absorb the fear it gathers.",
+        "It is the only pure Ghost-type Pokémon introduced in Generation 2.",
+        "It frequently pulls people's hair to see their shocked reactions."
+    ],
+    "UNOWN": [
+        "Its body resembles ancient hieroglyphics and alphabetical letters.",
+        "There are 28 different forms of Unown: 26 letters, plus an exclamation and question mark.",
+        "When multiple Unown gather together, they can bend reality itself.",
+        "They are the central focus of the movie 'Pokémon 3: The Movie'.",
+        "In the games, they only ever learn a single move: Hidden Power."
+    ],
+    "WOBBUFFET": [
+        "It never attacks first, completely relying on counterattacks to deal damage.",
+        "To hide its pitch-black tail, it lives quietly in total darkness.",
+        "Many believe Wobbuffet's true body is actually its tail, and the blue body is a decoy.",
+        "Jessie's Wobbuffet was an accidental trade that became a beloved mainstay of Team Rocket.",
+        "Two Wobbuffet will stubbornly compete in endurance contests that can last for days."
+    ],
+    "GIRAFARIG": [
+        "The head on its tail contains a small, separate brain.",
+        "Its tail brain doesn't need to sleep and stays awake 24 hours a day to watch for danger.",
+        "The tail will aggressively bite anyone who tries to sneak up on Girafarig.",
+        "In Pokémon Scarlet and Violet, it gained an evolution named Farigiraf.",
+        "Its name is a palindrome, spelled exactly the same backward as forward."
+    ],
+    "PINECO": [
+        "It hangs motionless from tree branches, waiting for prey like bugs to pass by.",
+        "If someone shakes its tree, it will drop down and immediately self-destruct.",
+        "Pineco thickens its shell by gluing tree bark to its body with its spit.",
+        "Brock caught a Pineco with a Fast Ball, which later evolved into Forretress.",
+        "Despite looking like a pinecone, it is a pure Bug-type, not a Grass-type."
+    ],
+    "FORRETRESS": [
+        "Its true identity inside the steel shell remains entirely unknown.",
+        "The shell is so tough it can withstand the blast of a stick of dynamite.",
+        "It shoots out spikes when attacked to deter predators.",
+        "Brock's Forretress was his only Pokémon that traveled with him to the Hoenn region.",
+        "It is widely used in competitive battles to set up entry hazards like Spikes."
+    ],
+    "DUNSPARCE": [
+        "When spotted, it rapidly drills into the ground with its tail to escape.",
+        "It has a very small pair of wings that allow it to hover just slightly.",
+        "Dunsparce makes intricate mazes underground to hide from predators.",
+        "Its design is based on the mythical Tsuchinoko from Japanese folklore.",
+        "In Paldea, it finally received an evolution named Dudunsparce."
+    ],
+    "GLIGAR": [
+        "It glides completely silently on the wind to sneak up on its prey.",
+        "Once in range, it latches onto the victim's face and injects poison from its tail stinger.",
+        "Ash captured a Gligar that was exceptionally crybaby-like and afraid of heights.",
+        "It builds its nest on sheer cliffs where it can easily drop into a glide.",
+        "Despite its Flying typing, it takes no damage from Electric attacks due to its Ground typing."
+    ],
+    "STEELIX": [
+        "It is formed when an Onix lives for 100 years, compressing its body under immense pressure.",
+        "Its steel body is harder than a diamond and completely scratch-resistant.",
+        "Steelix burrows nearly a mile underground, chewing through solid rock.",
+        "Jasmine, the Olivine Gym Leader, famously uses a powerful Steelix as her ace.",
+        "Mega Steelix sprouts massive crystals from its body due to intense crystallization."
+    ],
+    "SNUBBULL": [
+        "Despite its scary face, it is incredibly affectionate, playful, and cowardly.",
+        "Many women in the Pokémon world find Snubbull to be extremely cute.",
+        "In the anime, a recurring Snubbull developed a major crush on Meowth.",
+        "Originally a Normal-type, it was reclassified as a Fairy-type in Generation 6.",
+        "It intentionally acts fiercely to hide its overwhelming timidity."
+    ],
+    "GRANBULL": [
+        "Its lower jaw is so heavy it forces Granbull's head to constantly tilt down.",
+        "If it is not provoked, Granbull will never bite indiscriminately.",
+        "Most Pokémon are terrified of its enormous fangs and will run away on sight.",
+        "It is actually quite easily spooked despite its intimidating appearance.",
+        "It shares the same Fairy typing as its pre-evolution, completely losing its Normal typing."
+    ],
+    "QWILFISH": [
+        "It swells its body by drinking large amounts of water to shoot toxic needles.",
+        "Qwilfish is an incredibly poor swimmer and often just drifts in the water.",
+        "The poison in its spikes can cause its victim to faint almost instantly.",
+        "Hisuian Qwilfish is Dark/Poison and gained an evolution called Overqwil.",
+        "If it is caught in a net, it will puff up so much that the net snaps."
+    ],
+    "SCIZOR": [
+        "Its body is as hard as steel, rendering normal physical attacks completely useless.",
+        "Scizor's pincers contain enough crushing power to shatter boulders into dust.",
+        "Because it is too heavy to fly, it uses its wings solely for regulating body temperature.",
+        "Gary Oak used a highly trained Scizor in his Silver Conference match against Ash.",
+        "Its Mega Evolution causes its pincers to become serrated and dangerously sharp."
+    ],
+    "SHUCKLE": [
+        "It hides under rocks, dissolving them with a fluid secreted from its toes.",
+        "Shuckle stores berries in its shell, which ferment into a highly nutritious juice.",
+        "It has the highest base Defense and Special Defense stats of any non-mega Pokémon.",
+        "Despite its incredible defenses, its Speed and Attack stats are famously abysmal.",
+        "Competitive players often use its move Power Trick to swap its massive defense into attack."
+    ],
+    "HERACROSS": [
+        "It is incredibly strong, capable of throwing an object 100 times its own weight.",
+        "Heracross loves sweet tree sap and will aggressively defend a sap-filled tree.",
+        "Ash's Heracross had a bizarre running gag of constantly trying to suck sap from Bulbasaur's bulb.",
+        "Its Mega Evolution gives it the Skill Link ability, making multi-hit moves devastating.",
+        "It relies purely on brute strength and tossing foes with its massive horn."
+    ],
+    "SNEASEL": [
+        "It hunts by acting as a team: one distracts the parents while the other steals the eggs.",
+        "Sneasel's claws are sharp enough to easily gouge tree trunks to climb them.",
+        "It has an asymmetrical design, with one ear distinctly longer than the other.",
+        "Hisuian Sneasel is Poison/Fighting type and climbs cliffs rather than trees.",
+        "Silver steals a Sneasel in the manga and frequently uses it in battles."
+    ],
+    "TEDDIURSA": [
+        "Before food becomes scarce in winter, it hoards food in secret locations.",
+        "Teddiursa constantly licks its paws because they are soaked in sweet honey.",
+        "The crescent mark on its head glows when it finds a particularly tasty batch of honey.",
+        "It uses its adorable appearance to trick people into giving it food before fleeing.",
+        "It is a version-exclusive counterpart to Phanpy in Gold and Silver."
+    ],
+    "URSARING": [
+        "It marks its territory by leaving massive claw marks on tree trunks.",
+        "Ursaring will violently attack anyone who enters its forest territory.",
+        "Despite its massive bulk, it is extremely adept at climbing trees to eat berries.",
+        "Paul, Ash's rival in the Sinnoh region, used a ruthless and terrifying Ursaring.",
+        "In Hisui, Ursaring gained a final evolution named Ursaluna by using a Peat Block."
+    ],
+    "SLUGMA": [
+        "Its body is made entirely of continuously circulating magma.",
+        "If Slugma stops moving, its body rapidly cools and hardens into rock.",
+        "It requires extreme heat to survive and usually congregates around active volcanoes.",
+        "It never sleeps because it must keep moving to prevent itself from solidifying.",
+        "Despite being a Fire-type, its design and lore heavily mimic a typical gastropod slug."
+    ],
+    "MAGCARGO": [
+        "Its body temperature is supposedly 18,000 degrees Fahrenheit, which is hotter than the sun's surface.",
+        "The shell on its back is incredibly brittle and cracks at the slightest touch.",
+        "Flames frequently spout from cracks in its shell.",
+        "It was notably one of the few fully-evolved Fire-types available in early Gen 2.",
+        "Water vaporizes instantly upon making contact with Magcargo's body."
+    ],
+    "SWINUB": [
+        "It rubs its nose against the ground to search for food hidden under snow.",
+        "Swinub's favorite food is a specific type of mushroom that grows beneath ice.",
+        "Dawn of the anime captured a Swinub because it helped her find food.",
+        "It frequently ignores everything around it once it catches the scent of food.",
+        "Its tiny legs make it look like it's gliding rather than walking."
+    ],
+    "PILOSWINE": [
+        "Its shaggy coat is so thick it cannot see anything, relying entirely on sound and smell.",
+        "The fur is completely resistant to the freezing cold temperatures of its snowy habitat.",
+        "Piloswine will charge blindly at enemies, but easily slips on patches of ice.",
+        "Pryce, the Mahogany Gym Leader, uses a Piloswine as his signature Pokémon.",
+        "It requires knowing the move Ancient Power to evolve into Mamoswine."
+    ],
+    "CORSOLA": [
+        "Corsola thrive only in clean, unpolluted ocean waters.",
+        "Its branches absorb nutrients from the water and grow back quickly if broken.",
+        "In the Galar region, severe pollution killed them, resulting in a Ghost-type Galarian form.",
+        "People in the Alola region often harvest its shed branches for jewelry.",
+        "Mareanie are known to be natural predators that ruthlessly hunt Corsola."
+    ],
+    "REMORAID": [
+        "It shoots a jet of water from its mouth with the precision of a sniper rifle.",
+        "Remoraid frequently travels by attaching itself to a Mantine's fin.",
+        "Despite being a fish, its design and moveset are heavily based on firearms.",
+        "It requires trading with a Mantyke in the party for Mantyke to evolve.",
+        "It is capable of shooting targets accurately from over 300 feet away."
+    ],
+    "OCTILLERY": [
+        "It traps enemies with its suction-cupped tentacles before blasting them with ink.",
+        "Octillery is fiercely territorial and hides in rock crevices.",
+        "Despite evolving from a fish, it completely changes form into an octopus.",
+        "Its design motif shifts from a handgun to a heavy artillery cannon or tank.",
+        "It has access to an incredibly diverse movepool, including Flamethrower and Ice Beam."
+    ],
+    "DELIBIRD": [
+        "It carries food all day long wrapped in its tail to share with lost travelers.",
+        "Its signature move, Present, can either heal the opponent or cause massive damage.",
+        "Delibird heavily bases its design and actions on Santa Claus.",
+        "In the anime, a Delibird continually follows Team Rocket to collect their debts.",
+        "Despite its helpful nature, it is notoriously weak in competitive battling."
+    ],
+    "MANTINE": [
+        "It swims elegantly, making it look as though it is flying through the water.",
+        "If it builds up enough speed, it can leap out of the water and glide for hundreds of feet.",
+        "Mantine has a symbiotic relationship with Remoraid, which clean its fins.",
+        "In Alola, Mantine Surfing is a popular sport and method of transportation.",
+        "It boasts an incredibly high Special Defense stat, making it a great aquatic tank."
+    ],
+    "SKARMORY": [
+        "Its wings appear heavy but are completely hollow, allowing it to fly up to 180 mph.",
+        "The feathers shed by Skarmory are so sharp they have been used as swords in the past.",
+        "It fiercely guards its nest in the thorns, intentionally scratching its young to toughen them.",
+        "It has been a staple in competitive play for decades as a premier physical wall.",
+        "Despite being a Steel-type, it is susceptible to being melted by intense Fire-type moves."
+    ],
+    "HOUNDOUR": [
+        "It communicates with its pack using a variety of barks to coordinate hunts.",
+        "Houndour hunt as a highly organized team, never breaking formation.",
+        "It refuses to let its prey escape, chasing them until they completely exhaust themselves.",
+        "They use an eerie howl before dawn to establish their territory.",
+        "Its design is inspired by hellhounds and the Doberman breed."
+    ],
+    "HOUNDOOM": [
+        "If you are burned by Houndoom's flames, the pain will supposedly never go away.",
+        "Its eerie, long howl strikes absolute terror into any Pokémon that hears it.",
+        "In a pack, the Houndoom with the most heavily swept-back horns is the leader.",
+        "Mega Houndoom's body generates so much heat that its own claws melt slightly.",
+        "Harrison used a powerful Houndoom against Ash in the Johto League."
+    ],
+    "KINGDRA": [
+        "It sleeps deeply on the seafloor to quietly build up its energy.",
+        "When Kingdra awakens and yawns, it creates devastating underwater cyclones.",
+        "It is said to hide in underwater caves where no light can ever reach.",
+        "Clair, the Blackthorn Gym Leader, famously uses a Kingdra that frustrated many players.",
+        "It evolves from Seadra when traded holding a Dragon Scale."
+    ],
+    "PHANPY": [
+        "It swings its long snout around affectionately, but its immense strength can send people flying.",
+        "Phanpy uses its large ears as fans to keep itself cool in hot environments.",
+        "Ash hatched a Phanpy from an egg, which possessed a surprisingly playful nature.",
+        "It digs deep vertical pits in the ground to create its nest.",
+        "In the morning, it uses its trunk to shower itself with water."
+    ],
+    "DONPHAN": [
+        "It curls into a ball and rolls at high speeds to smash into enemies like a tire.",
+        "The longer its tusks are, the higher its rank is within its herd.",
+        "Donphan is capable of easily clearing entire houses in its rolling charge.",
+        "Ash's Phanpy evolved into Donphan during the Battle Frontier arc.",
+        "In Paldea, two Paradox forms exist: Great Tusk (past) and Iron Treads (future)."
+    ],
+    "PORYGON2": [
+        "It was created using cutting-edge science in an attempt to explore space.",
+        "Due to its artificial intelligence, it has begun to exhibit behaviors not in its original programming.",
+        "It is notoriously equipped with the Eviolite item in competitive battles to become nearly indestructible.",
+        "Despite being built for space, it was unable to actually fly into orbit.",
+        "It can speak in a strange language that only other Porygon2 can comprehend."
+    ],
+    "STANTLER": [
+        "The curved shape of its antlers subtly alters the flow of air, creating mysterious illusions.",
+        "Staring into its antlers will cause a person to lose their senses and fall unconscious.",
+        "Its antlers were once heavily poached for their supposedly magical properties.",
+        "In the Hisui region, it evolves into Wyrdeer after mastering the move Psyshield Bash.",
+        "It forms small herds and is very protective of its young."
+    ],
+    "SMEARGLE": [
+        "It marks its territory by using a special fluid leaking from the tip of its tail.",
+        "There are over 5,000 different markings known to be made by Smeargle.",
+        "Its signature move, Sketch, allows it to permanently copy almost any move in the game.",
+        "Because of Sketch, it has been wildly unpredictable and dominant in competitive formats.",
+        "The color of its tail fluid changes depending on Smeargle's emotions."
+    ],
+    "TYROGUE": [
+        "It is always bursting with energy and fiercely challenges any opponent, regardless of size.",
+        "Tyrogue frequently suffers from injuries because it refuses to back down from a fight.",
+        "It requires strict and constant training, or it will become overly stressed.",
+        "Depending on its stats, it can evolve into Hitmonlee, Hitmonchan, or Hitmontop.",
+        "The Karate King in Mt. Mortar gifts players a Tyrogue after defeating him."
+    ],
+    "HITMONTOP": [
+        "It fights by spinning on its head like a top, delivering rapid, unpredictable kicks.",
+        "Hitmontop spins fast enough to actually drill into the ground.",
+        "The centrifugal force of its spinning heavily boosts its attack power by ten times.",
+        "It evolves from Tyrogue only if its Attack and Defense stats are perfectly equal.",
+        "Its fighting style is heavily inspired by the Brazilian martial art Capoeira."
+    ],
+    "SMOOCHUM": [
+        "It actively uses its lips to examine any new object it encounters.",
+        "Smoochum constantly checks its reflection in water to ensure its face is clean.",
+        "Its lips are the most sensitive part of its body, containing tons of nerves.",
+        "It rocks its head back and forth as if kissing the air while it walks.",
+        "It requires a high level of affectionate care to evolve properly into Jynx."
+    ],
+    "ELEKID": [
+        "It generates electricity by loudly rotating its arms like wind-up toys.",
+        "Elekid often accidentally shocks people when it is overly happy.",
+        "It cannot store the electricity it generates, so it must constantly release it.",
+        "Paul, Ash's rival, used a very aggressive Elekid that eventually became an Electivire.",
+        "It lives in areas prone to heavy thunderstorms to absorb natural lightning."
+    ],
+    "MAGBY": [
+        "The blood flowing through its body is practically liquid magma.",
+        "When it breathes, small yellow flames constantly leak from its mouth and nose.",
+        "If a Magby is healthy, it breathes yellow flames; if fatigued, black smoke.",
+        "It lives exclusively in active volcanoes, bathing in the lava.",
+        "Despite its small size, its body temperature exceeds 1,100 degrees Fahrenheit."
+    ],
+    "MILTANK": [
+        "Its milk is highly nutritious and can heal the ailments of any Pokémon or person.",
+        "Whitney's Miltank in Goldenrod City is infamous for ending players' runs with Rollout.",
+        "It must be milked daily, or its udder will swell and cause it intense pain.",
+        "Miltank milk is turned into delicious yogurt and cheese that is highly sought after.",
+        "If it is feeling threatened, it will tackle aggressively and repeatedly."
+    ],
+    "BLISSEY": [
+        "It senses sadness with its fluffy fur and rushes to care for the depressed person.",
+        "The egg it carries in its pouch is filled with happiness and instantly cures sadness when eaten.",
+        "Blissey boasts the absolute highest base HP stat of any Pokémon.",
+        "It is incredibly compassionate and will gladly heal enemy Pokémon after a battle.",
+        "Because of its huge HP and special defense, it is the ultimate defensive wall in competitive play."
+    ],
+    "RAIKOU": [
+        "It supposedly fell to earth along with a massive bolt of lightning.",
+        "Its barks sound precisely like crashing thunder, shaking the very ground.",
+        "Raikou races across the land, emitting powerful electricity from the rain clouds on its back.",
+        "It was resurrected by Ho-Oh after the Brass Tower in Ecruteak City burned down.",
+        "In Paldea, a Paradox Pokémon named Raging Bolt bears a striking resemblance to it."
+    ],
+    "ENTEI": [
+        "It is said that an Entei is born every time a new volcano erupts somewhere on Earth.",
+        "Its mighty roar can cause a volcano to erupt on the other side of the globe.",
+        "Entei endlessly races across the land, unable to contain its intense inner heat.",
+        "It was the primary featured legendary in 'Pokémon 3: The Movie', though it was an illusion.",
+        "Like Raikou, it was revived by Ho-Oh from the ashes of the Brass Tower."
+    ],
+    "SUICUNE": [
+        "It embodies the compassion of a pure spring of water.",
+        "Suicune can instantly purify filthy, murky water simply by stepping in it.",
+        "It travels the globe in search of heavily polluted water to purify.",
+        "It is the main mascot of Pokémon Crystal, taking center stage in the plot.",
+        "Eusine is a recurring character entirely obsessed with capturing Suicune."
+    ],
+    "LARVITAR": [
+        "It is born entirely deep underground and must eat its way to the surface.",
+        "Larvitar will casually consume an entire mountain of dirt before it is ready to evolve.",
+        "Ash carried a Larvitar in the anime that was terrified of anyone except him.",
+        "It cannot see its parents until it fully eats its way out of the ground.",
+        "Despite its small size, it is incredibly heavy due to its dense, rocky body."
+    ],
+    "PUPITAR": [
+        "Its body is encased in a shell as hard as bedrock.",
+        "Even though it is essentially a pupa, it is highly active and wildly destructive.",
+        "Pupitar expels pressurized gas to launch itself through the air like a rocket.",
+        "It has enough sheer physical power to effortlessly topple a mountain.",
+        "It must wait inside its shell until its body is completely developed into Tyranitar."
+    ],
+    "TYRANITAR": [
+        "Its footsteps create devastating earthquakes that force cartographers to redraw maps.",
+        "Tyranitar is so overwhelmingly powerful that it constantly wanders to look for new challengers.",
+        "Its armor cannot be damaged by any normal sort of attack.",
+        "It summons raging sandstorms simply by roaring.",
+        "Mega Tyranitar's back breaks open, allowing unbridled, destructive energy to pour out."
+    ],
+    "LUGIA": [
+        "It sleeps in a deep-sea trench to avoid unintentionally causing massive destruction.",
+        "A light fluttering of its wings can generate storms capable of blowing apart houses.",
+        "It is known as the 'Guardian of the Seas'.",
+        "Lugia is the trio master of the legendary birds: Articuno, Zapdos, and Moltres.",
+        "Despite being strongly associated with the ocean, it is Psychic/Flying, not Water-type."
+    ],
+    "HO-OH": [
+        "It is said to leave a brilliant rainbow behind it as it flies through the sky.",
+        "Its feathers glow in seven distinct colors, which supposedly bring eternal happiness.",
+        "Ash Ketchum famously saw Ho-Oh on his very first day as a Pokémon trainer.",
+        "It possesses a mystical power capable of resurrecting the dead.",
+        "Ho-Oh is the trio master of the legendary beasts: Raikou, Entei, and Suicune."
+    ],
+    "CELEBI": [
+        "It has the mystical power to freely travel across time.",
+        "Forests where Celebi appears are guaranteed to flourish and grow abundantly.",
+        "It only reveals itself in peaceful times, fleeing from eras of deep conflict.",
+        "It leaves behind an egg from the future before it travels away.",
+        "Celebi starred in the movie 'Pokémon 4Ever', where it formed a close bond with a young Professor Oak."
     ]
+
 }
